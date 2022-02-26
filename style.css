@@ -1,0 +1,14 @@
+body{
+	background-color: grey;
+}
+iframe{
+	background-color: white;
+}
+#barra{
+	width: 100%;
+	top: 0px;
+}
+#estudiantes{
+	width: 100%;
+	height: 600px;
+}
