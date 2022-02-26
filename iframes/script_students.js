@@ -11,11 +11,21 @@ var estudiantes= [
 		"Apellidos": "Brito Serrano"
 	}
 ]
-for(i of estudiantes){
-	document.write('<a href=""'+i.Usuario+'.html">'+i.Nombres+'</a></br>')
-	document.write('</br><img src="'+i.Foto+'"></br>')
-	console.log(i)
+
+function lista(estudiantes){
+	for(i of estudiantes){
+		document.write('<a href=""'+i.Usuario+'.html">'+i.Nombres+'</a></br>')
+		document.write('</br><img src="'+i.Foto+'"></br>')
+		console.log(i)
+	}
 }
+
+function seleccionador(){
+	// Hacer que mediante un evento saber que usuario fue seleccionado para cargar los datos
+}
+
+seleccionador()
+lista(estudiantes)
 /**
 // JSON Read
 fetch("students.json")
