@@ -1,38 +1,56 @@
 var estudiantes= [
 	{
 		"Usuario": "Jorge_Arguello",
-		"Nombres": "Jorge Alexander",
-		"Apellidos": "Arguello Gusqui",
+		"Nombres": "ARGUELLO GUSQUI JORGE ALEXANDER",
+		"FechaNacimiento": "02-07-2005",
+		"Signo": "Cancer",
+		"Edad": "16",
+		"Sexo": "Masculino",
+		"Artista": "Wos",
+		"Color": "Azul celeste",
+		"Hobbie": "Fotografía",
+		"Comida": "Pizza",
+		"Metas": "Estudiar ingeniería en informática, intentar ser uno de los mejores para vivir de lo que me gusta hacer que es la informática",
 		"Foto": "../img/JorgeArguello_Foto.jpg"
 	},
-	{
-		"Usuario": "Nicol_Brito",
-		"Nombres": "Alisson Nicol",
-		"Apellidos": "Brito Serrano"
-	}
 ]
 
+// document.addEventListener("DOMContentLoaded", lista(estudiantes))
+document.addEventListener("DOMContentLoaded", galeria())
+
+/*
 function lista(estudiantes){
 	for(i of estudiantes){
-		document.write('<a href=""'+i.Usuario+'.html">'+i.Nombres+'</a></br>')
-		document.write('</br><img src="'+i.Foto+'"></br>')
+		usuario= i.Usuario
+		//var usuario= "estudiantes,"+i.Usuario
+		document.write('<a href="javascript:mensajero()">'+i.Nombres+'</a>')
+		//document.write('<button type="button" onclick="seleccionador('+i.Usuario+')">'+i.Nombres+'</button>')
+		document.write('</br>')
+		//document.getElementById('informacion').innerHTML='<h1>'+i.Nombres+'</h1>';
+		return usuario
+	}
+}
+*/
+
+/*
+function seleccionador(usuario){
+	alert(usuario)
+	for(i of estudiantes){
+		usuario= String(usuario)
+		if(i.Usuario==usuario){
+			document.write(i.Nombres)
+			alert(i.Nombres)
+		}
+	}
+}
+*/
+function galeria(){
+	for(i of estudiantes){
+		var informacion='<h1>'+i.Nombres+'</h1></br>'
+		var imagen='</br><img src="'+i.Foto+'"></br>'
+
+		document.write(informacion, imagen)
 		console.log(i)
 	}
 }
 
-function seleccionador(){
-	// Hacer que mediante un evento saber que usuario fue seleccionado para cargar los datos
-}
-
-seleccionador()
-lista(estudiantes)
-/**
-// JSON Read
-fetch("students.json")
-	.then(response=>response.json())
-	.then(data=>{
-		console.log(data.Nombres)
-		document.write("<h1>"+data.ArguelloJorge.Nombres+"</h1>")
-		document.write('<img src="'+data.ArguelloJorge.Foto +'"> </img>')
-})
-**/
