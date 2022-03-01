@@ -1,0 +1,21 @@
+body{
+	background-color: white;
+	color: black; 
+	font-family: 'IBM Plex Serif', serif;
+}
+.lista h1{
+	font-size: 30px;
+	margin: 0px;
+	text-align: center;
+}
+.for{
+	padding: 10px;
+	margin: 30px;
+	color: black;
+
+	border-radius: 5px;
+	border-style: dashed;
+}
+.for p{
+	margin: 0px;
+}
