@@ -8,6 +8,14 @@ body{
 	margin: 0px;
 	text-align: center;
 }
+.lista a{
+	text-decoration: none;
+	float: left;
+}
+.lista a:hover{
+	color: white;
+	background-color: black;
+}
 .for{
 	padding: 10px;
 	margin: 30px;
@@ -15,6 +23,7 @@ body{
 
 	border-radius: 5px;
 	border-style: dashed;
+
 }
 .for p{
 	margin: 0px;
@@ -22,3 +31,18 @@ body{
 .for h2{
 	text-align: center;
 }
+.for img{
+	margin-left: 45%;
+/*
+.list{
+	padding: 10px;
+}
+.list a{
+	list-style: none;
+	text-decoration: none;
+}
+.list a:hover{
+	color: white;
+	background-color: black;
+}
+*/
