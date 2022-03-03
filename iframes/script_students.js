@@ -71,7 +71,7 @@ var estudiantes= [
 		"Usuario": "Nikol_Conde",
 		"ColorC": "#7b68fc",
 		"ColorB": "White",
-		"Foto": "",
+		"Foto": "https://scontent.fptz1-1.fna.fbcdn.net/v/t39.30808-6/242334184_1538479646494163_8315596909236153932_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeH7-rBpIUZqEjOXWkMXctM5S4rw23MgOWtLivDbcyA5a4fLA3Io5WEVy4Mte18MyXoBMBs-fD6ut5R_cZ6nV8R9&_nc_ohc=ytuk6uIXvhsAX_ORKfM&tn=lzhpH_UQoiHVEhp5&_nc_ht=scontent.fptz1-1.fna&oh=00_AT8mmWzxiE3Xt6ZJTimMkx55BeX9h8bXnCR8PHkM32RpgA&oe=62244C21",
 
 		"Nombres": "CONDE CHANGO ZHARICK NIKOL",
 		"FechaNacimiento": "23-12-2005",
@@ -105,7 +105,7 @@ var estudiantes= [
 		"Usuario": "Erick_Estrella",
 		"ColorC": "Black",
 		"ColorB": "White",
-		"Foto": "",
+		"Foto": "https://scontent.fptz1-1.fna.fbcdn.net/v/t1.6435-9/140791268_103537165071057_286213649308433058_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGbJPs0X5X0qs7q1vZ-ND6jpo8MrI7yXqCmjwysjvJeoJ9D3KH0MA5LjWaO5Uvc8MmxB8iwXhVoCCQVs-W1DLkK&_nc_ohc=9FpGKDKUkRsAX-eUKBl&_nc_ht=scontent.fptz1-1.fna&oh=00_AT-Y8f88plQuffllxJRB8Q9-7aIwTRy2P8pczQljpQJQhg&oe=62467B93",
 
 		"Nombres": "ESTRELLA GARCIA ERICK JAIR",
 		"FechaNacimiento": "14-01-2006",
@@ -122,7 +122,7 @@ var estudiantes= [
 		"Usuario": "Samantha_Farez",
 		"ColorC": "#ddffb0",
 		"ColorB": "Black",
-		"Foto": "",
+		"Foto": "https://scontent.fptz1-1.fna.fbcdn.net/v/t1.6435-9/199230774_1914332905408723_3017553509834987476_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeEgASPZEa3UnXclJBp3e0QAep_M7uYbo0B6n8zu5hujQEc2-1RHPnlm3J1nJNZLFYjqsjhzoulJ2vYjq0SQuh2S&_nc_ohc=9JSlVzTDYxIAX9q_ufx&tn=lzhpH_UQoiHVEhp5&_nc_ht=scontent.fptz1-1.fna&oh=00_AT8tRP40pVw27c3625rTRdCXxnXr_K3Xcnf5J-1gBDsWpg&oe=62449C31",
 
 		"Nombres": "FAREZ SALINAS GENESIS SAMANTHA",
 		"FechaNacimiento": "09-11-2005",
@@ -227,7 +227,7 @@ var estudiantes= [
 		"Foto": "https://scontent.fuio3-1.fna.fbcdn.net/v/t1.15752-9/274822512_1336694123482057_7614695623911648975_n.jpg?_nc_cat=105&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeFuW2LKSuZ3EHl8rUkOktk7L-tbAUT65UMv61sBRPrlQ7l7k_QVfwHFSnWgJP4YER7YX_HuBwMzwEV60adXp5iy&_nc_ohc=31-gyyxgzvIAX_E9MJL&_nc_oc=AQlZElePjUkAnXyCBViWTM22O3yitU4SVjpQi008isBf_HHk_XDH4DfNjo1P0vzcVMmiys1NHhUczhItkD4AlAqX&_nc_ht=scontent.fuio3-1.fna&oh=03_AVKMwTJD391gH-tyPIKsyzhdZxG-gnEi3JSIPOCVeCOfQA&oe=6220FE13",
 
 		"Nombres": "MORALES CONZA MATEO JAHIR",
-		"FechaNacimiento": "09-12-2050",
+		"FechaNacimiento": "09-12-2005",
 		"Signo": "Sagitario",
 		"Edad": "16",
 		"Sexo": "Masculino",
@@ -241,7 +241,7 @@ var estudiantes= [
 		"Usuario": "Melissa_Orbe",
 		"ColorC": "#7b68fc",
 		"ColorB": "White",
-		"Foto": "",
+		"Foto": "https://scontent.fptz1-1.fna.fbcdn.net/v/t39.30808-6/270262935_647798852915687_1263669581632248358_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeH6Fg274r5ly6nEvENTZeG1uN0jYH9g0Q-43SNgf2DRDwcJBH8VsqdlVrdiwwzcXFyyWQuRKa87hOhP38J5EiSx&_nc_ohc=LaQOzlNyzKUAX8bIrQi&_nc_ht=scontent.fptz1-1.fna&oh=00_AT8FoF7ypifJJCBq4TktX5_QUv1VPlrYBy0kOKK5Pz0weA&oe=622604EB",
 
 		"Nombres": "ORBE VARGAS MELISSA IBET",
 		"FechaNacimiento": "22-04-2005",
@@ -292,7 +292,7 @@ var estudiantes= [
 		"Usuario": "Travis_Reatigui",
 		"ColorC": "Black",
 		"ColorB": "White",
-		"Foto": "",
+		"Foto": "https://scontent.fptz1-1.fna.fbcdn.net/v/t39.30808-6/274782887_1116174859194315_1932350180348852881_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGlfT0BxmS1UiKIJhbgL8JYA5X9VtXe4ToDlf1W1d7hOq5xv8RMH6gafwhRkxD-vIMQm8_CzkVy45oGqnQGTFKb&_nc_ohc=7QqnWMA0QpEAX-LYsiB&tn=lzhpH_UQoiHVEhp5&_nc_ht=scontent.fptz1-1.fna&oh=00_AT_A7TB77ctTy9nyh6AMF_gz5vj17RfFoyaBhRVULljfrA&oe=6224DE4B",
 
 		"Nombres": "REATIGUI CALLE TRAVIS MATEO",
 		"FechaNacimiento": "26-06-2005",
@@ -309,7 +309,7 @@ var estudiantes= [
 		"Usuario": "Slendy_Rodriguez",
 		"ColorC": "#c75af2",
 		"ColorB": "white",
-		"Foto": "",
+		"Foto": "https://scontent.fptz1-1.fna.fbcdn.net/v/t39.30808-6/216886400_1265009670602402_5975678473119274703_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeG0sk5xsOS2tnWo-3wUyIuguXld9G-IFyi5eV30b4gXKHP_-5SNBonxV6lAIQvjaQK_nfkyTAC0_DetuA2RgkMP&_nc_ohc=bYNYQ5OE0ngAX_vwCCL&_nc_ht=scontent.fptz1-1.fna&oh=00_AT94Lqbp6nh2SNpf0mhpABuWvexcl7Fi81Uf50B5pZ15Bg&oe=6224A18D",
 
 		"Nombres": "RODRIGUEZ VILEMA SLENDY LISETH",
 		"FechaNacimiento": "",
@@ -360,7 +360,7 @@ var estudiantes= [
 		"Usuario": "Ninette_Tandazo",
 		"ColorC": "#7b68fc",
 		"ColorB": "White",
-		"Foto": "",
+		"Foto": "https://scontent.fptz1-1.fna.fbcdn.net/v/t39.30808-6/258389427_1071516560274166_3223469383983482550_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=174925&_nc_eui2=AeErJ3K4nOl5VsXO_zeJVgwKccCODPWLyjpxwI4M9YvKOseo8-Sz6nyH7_XoLwE3jXfmmmnkkTfSWndiXqMJ7Upr&_nc_ohc=Dz7h4WKud5YAX_BjtDC&tn=lzhpH_UQoiHVEhp5&_nc_ht=scontent.fptz1-1.fna&oh=00_AT9BSL9daPVd5jsdYgJ2pRcNz8zgbmGdDoDgwzjJ-J0UoQ&oe=6225F754",
 
 		"Nombres": "TANDAZO GARCIA NINETTE JORIETH",
 		"FechaNacimiento": "16-10-2005",
@@ -377,7 +377,7 @@ var estudiantes= [
 		"Usuario": "Anthony_Zurita",
 		"ColorC": "#ffcf4a",
 		"ColorB": "Black",
-		"Foto": "",
+		"Foto": "https://scontent.fptz1-1.fna.fbcdn.net/v/t39.30808-6/270134836_453041373086546_1610655465925855096_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=8bfeb9&_nc_eui2=AeFDc7YYFO4jZWr0GzyjBpvY07Tl8AXu8l_TtOXwBe7yX7iT_KKlu1vtgN5KE6bR9qiHyW0cD-81KMJ1XY6Z5zZS&_nc_ohc=rSq2tJjDCWAAX9HIH7i&_nc_ht=scontent.fptz1-1.fna&oh=00_AT-p7DmQWU3hl2kHleHhtt7lShumvZZdZ3k1vnWU_ovUNA&oe=62256F69",
 
 		"Nombres": "ZURITA GAIBOR ANTHONY JOEL",
 		"FechaNacimiento": "05-09-2005",

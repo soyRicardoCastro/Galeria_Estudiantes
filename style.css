@@ -11,12 +11,19 @@ iframe{
 	top: 0px;
 	text-align: center;
 	font-size: 30px;
+	display: inline-block;
 }
 .barra h1{
 	margin: 0px;
 }
 .barra p{
 	margin: 0px;
+}
+.barra img{
+	height: 90px;
+	float: left;
+	position: relative;
+	margin-top: 0px;
 }
 .footer{
 	text-align: center;
@@ -27,9 +34,9 @@ iframe{
 }
 
 .imagen img{
-	height: 400px;
+	height: 300px;
 	float: right;
-	margin-right: 33%;
+	margin-right: 36%;
 	margin-bottom: 1%;
 	border-color: black;
 	border-style: dashed;
